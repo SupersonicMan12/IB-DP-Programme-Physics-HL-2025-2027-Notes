@@ -59,7 +59,7 @@ $$\Delta E = hf$$
 - Absorption spectrum:
   - Dark lines  
 
-These provide evidence for discrete atomic energy level.
+These **provide evidence for discrete atomic energy level**.
 - Each element has **unique spectral fingerprint** 
 - Therefore:
   - Spectra prove **discrete energy levels**
