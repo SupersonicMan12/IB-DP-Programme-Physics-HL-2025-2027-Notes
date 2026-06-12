@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D4 Induction.md",
+                "file": "E1 Structure of the Atom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "D4 Induction"
+              "title": "E1 Structure of the Atom"
             }
           },
           {
@@ -34,9 +34,65 @@
               "icon": "lucide-file",
               "title": "E1 Structure of the Atom"
             }
+          },
+          {
+            "id": "5b90b5a8487e1951",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E2 Quantum Physics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "E2 Quantum Physics"
+            }
+          },
+          {
+            "id": "07ba480f166795aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E3 Radioactive Decay.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "E3 Radioactive Decay"
+            }
+          },
+          {
+            "id": "60fcbb8e2fecbc4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E4 Fission.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "E4 Fission"
+            }
+          },
+          {
+            "id": "4a558ed6eb34652b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E5 Fusion and Stars.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "E5 Fusion and Stars"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -198,41 +254,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "58a00add80c4a453",
+  "active": "4a558ed6eb34652b",
   "lastOpenFiles": [
-    "Past Papers/2016-2020/E1_2016_2020_tight_collection.tex",
-    "Past Papers/2016-2020/D4_2016_2020_tight_collection.pdf",
-    "Past Papers/2016-2020/E1_2016_2020_tight_collection.pdf",
-    "Past Papers/2016-2020/D4_2016_2020_tight_collection.tex",
-    "Past Papers/2016-2020/D2_D3_2016_2020_tight_collection.tex",
-    "Past Papers/2016-2020/D2_D3_2016_2020_tight_collection.pdf",
-    "Past Papers/2016-2020/D4_2016_2020_mapped_collection.pdf",
-    "Past Papers/2016-2020/E1_2016_2020_mapped_collection.tex",
-    "Past Papers/2016-2020/E1_2016_2020_mapped_collection.pdf",
-    "Past Papers/2016-2020/D4_2016_2020_mapped_collection.tex",
-    "Past Papers/2016-2020/D2_D3_2016_2020_mapped_collection.tex",
-    "D4 Induction.md",
-    "C1 Waves.md",
-    "Common Sense of IB Physics.md",
+    "Untitled.md",
+    "E5 Fusion and Stars.md",
+    "Screenshot 2026-06-12 at 21.44.36.png",
+    "Screenshot 2026-06-12 at 21.33.24.png",
+    "E4 Fission.md",
+    "Pasted image 20260612213105.png",
+    "Pasted image 20260612213103.png",
+    "Pasted image 20260612212946.png",
+    "Screenshot 2026-06-12 at 21.27.49.png",
+    "Physics, 2025.pdf",
+    "Screenshot 2026-06-12 at 21.27.41.png",
+    "Screenshot 2026-06-12 at 21.14.22.png",
+    "Screenshot 2026-06-12 at 20.52.02.png",
+    "Screenshot 2026-06-12 at 20.50.40.png",
+    "E3 Radioactive Decay.md",
     "E1 Structure of the Atom.md",
-    "Screenshot 2026-04-17 at 09.07.53.png",
-    "Screenshot 2026-04-17 at 08.25.36.png",
-    "Screenshot 2026-04-17 at 08.25.30.png",
-    "Screenshot 2026-04-17 at 08.25.16.png",
-    "Screenshot 2026-04-17 at 08.10.02.png",
-    "Screenshot 2026-04-16 at 21.08.30.png",
+    "E2 Quantum Physics.md",
+    "Section E Practice/IB_Physics_Theme_E_E5_Original_Practice.docx",
+    "Section E Practice/IB_Physics_Theme_E_E4_Original_Practice.docx",
+    "Section E Practice/IB_Physics_Theme_E_E2_Original_Practice.docx",
+    "Section E Practice/IB_Physics_Theme_E_E3_Original_Practice.docx",
+    "Section E Practice/IB_Physics_Theme_E_E1_to_E5_Original_Practice_Combined.docx",
+    "Section E Practice/IB_Physics_Theme_E_E1_Original_Practice.docx",
+    "Section E Practice",
+    "IB_Physics_Theme_E_Original_Practice_Packs/IB_Physics_Theme_E_E5_Original_Practice.docx",
+    "IB_Physics_Theme_E_Original_Practice_Packs/IB_Physics_Theme_E_E4_Original_Practice.docx",
+    "D4 Induction.md",
     "D3 Motion in Electromagnetic Fields.md",
+    "Brilliant Section E Summary by ChatGPT.md",
+    "D2 Electric and Magnetic Fields.md",
+    "C5 Doppler Effect.md",
+    "Common Sense of IB Physics.md",
+    "C3 Wave Phenomena.md",
+    "C2 Wave Model.md",
+    "C1 Waves.md",
     "A4 Rigid Body Mechanics.md",
     "B1 Thermal Energy Transfers.md",
     "B4 Thermodynamics.md",
-    "D2 Electric and Magnetic Fields.md",
-    "Screenshot 2026-03-25 at 14.06.38.png",
-    "Screenshot 2026-03-25 at 13.54.09.png",
-    "Screenshot 2026-03-25 at 13.53.24.png",
-    "C2 Wave Model.md",
-    "C5 Doppler Effect.md",
-    "C3 Wave Phenomena.md",
-    "Screenshot 2026-01-16 at 23.58.52.png",
     "B2 Greenhouse Effect.md"
   ]
 }

@@ -35,7 +35,7 @@ $${}^A_ZX$$
 
 - Electrons occupy fixed energy levels  
 - No values in between  
-- Going up is absorb, going down is emit
+- Going up is absorb / excitation, going down is emit / de-excitation
 ![[Screenshot 2026-04-17 at 08.10.02.png]]
 >[!QUOTE] 
 >“能量只能跳，不能连续变” - Dr. Yao 没说过、AI random瞎编出来的的话 
@@ -61,10 +61,11 @@ $$\Delta E = hf$$
 
 These **provide evidence for discrete atomic energy level**.
 - Each element has **unique spectral fingerprint** 
-- Therefore:
-  - Spectra prove **discrete energy levels**
+	- When a light is shone through a cloud of hydrogen gas, the emission and absorption line spectrum are complementary to each other
 ## Deviations from Rutherford Scattering 
 ![[Screenshot 2026-04-17 at 08.25.36.png]]
+
+
 Rutherford expected the number of scattered particles to decrease as energy increases. However, it bends:
 - The alpha particles got sufficiently close:
 > [!NOTE] Closest Approach
@@ -85,8 +86,8 @@ $$R = R_0 A^{1/3}$$
 Niels Bohr:
 $$L = mvr$$
 
-- standing waves exist around the nucleus: wave-particle duality
-- Taking $\lambda  = \frac{h}{mv}$, $\frac{2\pi r}{\lambda} = n$, then $mvr = \frac{nh}{2\pi}$.
+- standing waves exist around the nucleus: **wave-particle duality**
+- Taking $$\lambda  = \frac{h}{p} =  \frac{h}{mv},$$The length of space that wave occupied must be an integer multiple of wavelengths, $\frac{2\pi r}{\lambda} = n$, then $$mvr = \frac{nh}{2\pi}.$$
 ![[Screenshot 2026-04-17 at 09.07.53.png]]
 > [!REMEMBER]
 $$E_n = -\frac{13.6}{n^2} \text{ eV}$$
