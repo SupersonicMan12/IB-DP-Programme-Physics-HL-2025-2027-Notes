@@ -37,3 +37,6 @@ Products of Nuclear Fission
 	- Low-level waste (LLW) - disposed safely in specific landfills with labelling.
 	- High-level waste (HLW) must be stored in special long-term storage facilities in deep geological repositories
 - Know how to BS about advantages and disadvantages of nuclear reactors.
+
+[!QUOTE] 
+>“很完整！” - Dr. Yao on the comprehensiveness of Hans's notes, June 15th, 2026

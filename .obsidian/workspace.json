@@ -4,95 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7e2ef647d62afb8b",
+        "id": "74f86b5978243cc0",
         "type": "tabs",
         "children": [
           {
-            "id": "2d55f94cfb9aee3f",
+            "id": "02b41bc9cfc5753d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E1 Structure of the Atom.md",
+                "file": "D3 Motion in Electromagnetic Fields.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "E1 Structure of the Atom"
-            }
-          },
-          {
-            "id": "58a00add80c4a453",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E1 Structure of the Atom.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "E1 Structure of the Atom"
-            }
-          },
-          {
-            "id": "5b90b5a8487e1951",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E2 Quantum Physics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "E2 Quantum Physics"
-            }
-          },
-          {
-            "id": "07ba480f166795aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E3 Radioactive Decay.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "E3 Radioactive Decay"
-            }
-          },
-          {
-            "id": "60fcbb8e2fecbc4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E4 Fission.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "E4 Fission"
-            }
-          },
-          {
-            "id": "4a558ed6eb34652b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E5 Fusion and Stars.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "E5 Fusion and Stars"
+              "title": "D3 Motion in Electromagnetic Fields"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,25 +183,32 @@
       "bases:Create new base": false
     }
   },
-  "active": "4a558ed6eb34652b",
+  "active": "02b41bc9cfc5753d",
   "lastOpenFiles": [
-    "Untitled.md",
+    "D2 Electric and Magnetic Fields.md",
+    "Common Sense of IB Physics.md",
+    "C2 Wave Model.md",
+    "D4 Induction.md",
+    "E3 Radioactive Decay.md",
     "E5 Fusion and Stars.md",
+    "E4 Fission.md",
+    "E2 Quantum Physics.md",
+    "D3 Motion in Electromagnetic Fields.md",
+    "E1 Structure of the Atom.md",
+    "C5 Doppler Effect.md",
+    "2022_paper_2__TZ2_HL.pdf",
+    "Screenshot 2026-06-13 at 17.38.19.png",
+    "Screenshot 2026-06-13 at 17.34.14.png",
+    "Physics, 2025.pdf",
+    "Untitled.md",
     "Screenshot 2026-06-12 at 21.44.36.png",
     "Screenshot 2026-06-12 at 21.33.24.png",
-    "E4 Fission.md",
     "Pasted image 20260612213105.png",
     "Pasted image 20260612213103.png",
     "Pasted image 20260612212946.png",
     "Screenshot 2026-06-12 at 21.27.49.png",
-    "Physics, 2025.pdf",
     "Screenshot 2026-06-12 at 21.27.41.png",
     "Screenshot 2026-06-12 at 21.14.22.png",
-    "Screenshot 2026-06-12 at 20.52.02.png",
-    "Screenshot 2026-06-12 at 20.50.40.png",
-    "E3 Radioactive Decay.md",
-    "E1 Structure of the Atom.md",
-    "E2 Quantum Physics.md",
     "Section E Practice/IB_Physics_Theme_E_E5_Original_Practice.docx",
     "Section E Practice/IB_Physics_Theme_E_E4_Original_Practice.docx",
     "Section E Practice/IB_Physics_Theme_E_E2_Original_Practice.docx",
@@ -281,15 +217,8 @@
     "Section E Practice/IB_Physics_Theme_E_E1_Original_Practice.docx",
     "Section E Practice",
     "IB_Physics_Theme_E_Original_Practice_Packs/IB_Physics_Theme_E_E5_Original_Practice.docx",
-    "IB_Physics_Theme_E_Original_Practice_Packs/IB_Physics_Theme_E_E4_Original_Practice.docx",
-    "D4 Induction.md",
-    "D3 Motion in Electromagnetic Fields.md",
     "Brilliant Section E Summary by ChatGPT.md",
-    "D2 Electric and Magnetic Fields.md",
-    "C5 Doppler Effect.md",
-    "Common Sense of IB Physics.md",
     "C3 Wave Phenomena.md",
-    "C2 Wave Model.md",
     "C1 Waves.md",
     "A4 Rigid Body Mechanics.md",
     "B1 Thermal Energy Transfers.md",

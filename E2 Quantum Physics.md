@@ -29,3 +29,9 @@ Reasoning:
 ![[Screenshot 2026-06-12 at 19.17.07.png]]
 
 A beam of electrons fired at a **diffraction grating** also displayed interference, suggesting that matter (electrons), like light, has wave properties.
+
+
+![[Screenshot 2026-06-13 at 17.38.19.png]]
+The idea is that when a material is bombarded with electrons, we have $2d \sin{\theta} = \lambda$, which means that the greater the diameter of the nucleus, the smaller the first maximum and minimum $\theta$, just remember this conclusion so that you don't have to rethink the experiment on the test:
+![[Screenshot 2026-06-13 at 17.34.14.png]]
+Answer: A.

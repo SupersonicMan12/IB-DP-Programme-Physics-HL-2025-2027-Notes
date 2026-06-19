@@ -54,6 +54,8 @@ $$\Delta E = hf$$
 - If electron rises → photon absorbed  
 ## Spectra → direct evidence of quantization
 
+Achieved through **diffraction grating**:
+
 - Emission spectrum:
   - Bright lines  
 - Absorption spectrum:

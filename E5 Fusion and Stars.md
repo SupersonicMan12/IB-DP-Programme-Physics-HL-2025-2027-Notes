@@ -5,7 +5,7 @@ Stars = plasma. Fusion occurs when two or more atomic nuclei join together, crea
 Star stability relies on: outwards radiation pressure balances inward gravitational forces.  
 
 #### Fusion is a source of energy in stars:
-Overall, $E=mc^2$ summarizes how moving upward in average binding energy (on the left side) leads to mass being lost.
+Overall, $E=mc^2$ summarizes how moving upward in average binding energy (on the left side) leads to mass being gained.
 ![[Pasted image 20260612212946.png]]
 The dominant process in most stars = p-p chain, where three stages occur; not tested, therefore, we do not learn it. The equation, however, is $6H \rightarrow He + 2H$.
 
@@ -37,6 +37,6 @@ Draw this diagram on the test, be sure to include background radiation:
 ![[Screenshot 2026-06-12 at 21.44.36.png]]
 
 The parallax angle = $p$ in arcseconds, we have the formula $d = \frac{1}{p}$, which gives distance $d$ in parsecs (pc, $1 \text{ pc} = 3.26 \text{ ly} = 30.84 \times 10^{15} \text{ m}$):
-- 
+
 
 
